@@ -40,6 +40,8 @@ Vidhi Patel (Computer and Information Science - IUPUI)
 
 <table>
  <tr>
-  <td>IND</td>
+  <td>Sr No.</td>
+  <td>Gesture Input</td>
+  <td>Actions</td>
   </tr>
  </table>
