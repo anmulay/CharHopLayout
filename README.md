@@ -51,66 +51,78 @@ Vidhi Patel (Computer and Information Science - IUPUI)
  <td></td>
   </tr>
   
-<td>1.</td>
-  <td>Thumb</td>
-  <td>Select a Character</td>
+ <tr>
+ <td>1.</td>
+ <td>Thumb</td>
+ <td>Select a Character</td>
   </tr>
   
-  <td>2.</td>
-  <td>Index Finger</td>
-  <td>Move forward by one character</td>
-  </tr>
+ <tr>
+ <td>2.</td>
+ <td>Index Finger</td>
+ <td>Move forward by one character</td>
+ </tr>
 
-<td>3.</td>
-  <td>Middle Finger</td>
-  <td>Move backward by one character</td>
-  </tr>
+ <tr>
+ <td>3.</td>
+ <td>Middle Finger</td>
+ <td>Move backward by one character</td>
+ </tr>
 
-<td>4.</td>
-  <td>Index + Middle Finger</td>
-  <td>Skip Character by 5</td>
-  </tr>
+ <tr>
+ <td>4.</td>
+ <td>Index + Middle Finger</td>
+ <td>Skip Character by 5</td>
+ </tr>
 
-<td>5.</td>
-  <td>Pinky Finger</td>
-  <td>Delete Character</td>
-  </tr>
+ <tr>
+ <td>5.</td>
+ <td>Pinky Finger</td>
+ <td>Delete Character</td>
+ </tr>
 
-<td>6.</td>
-  <td>Ring Finger</td>
-  <td>Reset</td>
-  </tr>
+ <tr>
+ <td>6.</td>
+ <td>Ring Finger</td>
+ <td>Reset</td>
+ </tr>
 
-<td>7.</td>
-  <td>Index + Middle + Ring Finger</td>
-  <td>Edit Mode</td>
-  </tr>
+ <tr>
+ <td>7.</td>
+ <td>Index + Middle + Ring Finger</td>
+ <td>Edit Mode</td>
+ </tr>
 
-<td>8.</td>
-  <td>Index + Middle + Ring + Pinky Finger</td>
-  <td>Speak Out</td>
-  </tr>
+ <tr>
+ <td>8.</td>
+ <td>Index + Middle + Ring + Pinky Finger</td>
+ <td>Speak Out</td>
+ </tr>
 
-<td></td>
-  <td></td>
-  <td><b>Edit Mode</b></td>
-  <td></td>
-  </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td><b>Edit Mode</b></td>
+ <td></td>
+ </tr>
 
-<td>9.</td>
-  <td>Ring Finger</td>
-  <td>Toggle in Edit Mode</td>
-  </tr>
+ <tr>
+ <td>9.</td>
+ <td>Ring Finger</td>
+ <td>Toggle in Edit Mode</td>
+ </tr>
 
-<td>10.</td>
-  <td>Ring finger tap followed by Selection tap on spoken ‘Insert’ cue </td>
-  <td>Insert a character at a character</td>
-  </tr>
+ <tr>
+ <td>10.</td>
+ <td>Ring finger tap followed by Selection tap on spoken ‘Insert’ cue </td>
+ <td>Insert a character at a character</td>
+ </tr>
 
-<td>11.</td>
-  <td>Ring finger tap followed by Selection tap on spoken ‘Replace’ cue </td>
-  <td>Replace a character at a character</td>
-  </tr>
+ <tr>
+ <td>11.</td>
+ <td>Ring finger tap followed by Selection tap on spoken ‘Replace’ cue </td>
+ <td>Replace a character at a character</td>
+ </tr>
 
  <tr>
  <td></td>
@@ -118,19 +130,22 @@ Vidhi Patel (Computer and Information Science - IUPUI)
  <td></td>
   </tr>
 
-<td>12.</td>
-  <td>Thumb + Index Finger</td>
-  <td>Numbers Mode</td>
-  </tr>
+ <tr>
+ <td>12.</td>
+ <td>Thumb + Index Finger</td>
+ <td>Numbers Mode</td>
+ </tr>
 
-<td>13.</td>
-  <td>Thumb + Middle Finger</td>
-  <td>Special Characters Mode</td>
-  </tr>
+ <tr>
+ <td>13.</td>
+ <td>Thumb + Middle Finger</td>
+ <td>Special Characters Mode</td>
+ </tr>
 
-<td>14.</td>
-  <td>Thumb + Ring Finger</td>
-  <td>Autosuggestions Mode</td>
-  </tr>
+ <tr>
+ <td>14.</td>
+ <td>Thumb + Ring Finger</td>
+ <td>Autosuggestions Mode</td>
+ </tr>
 
  </table>
