@@ -22,6 +22,8 @@ JAVA JDK 8
 
 Android Dependency: 'com.tapwithus:tap-android-sdk:0.3.3' 
 
+This research is based upon work supported by NSF grant IIS-1909845 and a Google Faculty Research Award. 
+
 <table>
  <tr>
   <td>Sr No.</td>
@@ -132,8 +134,6 @@ Android Dependency: 'com.tapwithus:tap-android-sdk:0.3.3'
  </tr>
 
  </table>
-
-This research is based upon work supported by NSF grant IIS-1909845 and a Google Faculty Research Award. 
 
 <b>(Principal Investigator: Dr. Davide Bolchini: https://soic.iupui.edu/people/davide-bolchini/) 
 
