@@ -101,7 +101,6 @@ Vidhi Patel (Computer and Information Science - IUPUI)
 
  <tr>
  <td></td>
- <td></td>
  <td><b>Edit Mode</b></td>
  <td></td>
  </tr>
