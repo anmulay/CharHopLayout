@@ -28,7 +28,7 @@ This research is based upon work supported by NSF grant IIS-1909845 and a Google
 
 <b>1.Android Device:</b> The android app implemented based on android 10.o and tapstrap – android SDK and integrated in android mobile device.
 
-<b>2.Tapstrap:</b> A physical device for visually impaired user to carry out typing
+<b>2.Tapstrap:</b> A physical device for visually impaired user to perform screen less typing
 
 <b>3.Gesture Data:</b> Collected from tapstrap and converted into corresponding value as per the performed gesture 
 
