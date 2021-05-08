@@ -44,4 +44,8 @@ Vidhi Patel (Computer and Information Science - IUPUI)
   <td>Gesture Input</td>
   <td>Actions</td>
   </tr>
+ 
+ <tr>
+ <td><b>Primary Gestures</b></td>
+  </tr>
  </table>
