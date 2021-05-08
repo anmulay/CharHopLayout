@@ -24,6 +24,22 @@ Android Dependency: 'com.tapwithus:tap-android-sdk:0.3.3'
 
 This research is based upon work supported by NSF grant IIS-1909845 and a Google Faculty Research Award. 
 
+<b>System Componenets:</b>
+
+<b>1.Android Device:</b> The android app implemented based on android 10.o and tapstrap – android SDK and integrated in android mobile device.
+
+<b>2.Tapstrap:</b> A physical device for visually impaired user to carry out typing
+
+<b>3.Gesture Data:</b> Collected from tapstrap and converted into corresponding value as per the performed gesture 
+
+<b>4.Google Text-to-speech Engine:</b> Service to connvert text into audio
+
+<b>5.ArrayLists:</b> List data structure to store alphabets, numbers and special characters
+
+<b>6.Tap Listener:</b> Action listerner to map the physical gestures to corresponding keyflow actions
+
+<b>7.Keyflow Modes:</b> Modularized definitions and action for alphabets, numbers and special characters
+
 <b> Functionalities:</b>
 
 <table>
