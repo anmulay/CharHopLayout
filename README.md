@@ -24,6 +24,8 @@ Android Dependency: 'com.tapwithus:tap-android-sdk:0.3.3'
 
 This research is based upon work supported by NSF grant IIS-1909845 and a Google Faculty Research Award. 
 
+<b> Functionalities:</b>
+
 <table>
  <tr>
   <td>Sr No.</td>
