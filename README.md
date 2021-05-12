@@ -36,9 +36,8 @@ This research is based upon work supported by NSF grant IIS-1909845 and a Google
 
 <b>5.ArrayLists:</b> List data structure to store alphabets, numbers and special characters
 
-<b>6.Tap Listener:</b> Action listerner to map the physical gestures to corresponding keyflow actions
-
-<b>7.Keyflow Modes:</b> Modularized definitions and action for alphabets, numbers and special characters
+<b>6.Tap Listener:</b> Action listener to map the physical gestures to corresponding keyflow actions such as forward, backward, select, hop, reset, delete and speak out in keyflow
+<b>7.Keyflow Modes:</b> Modularized definitions and action for alphabets, numbers and special characters along with edit and auto suggestions for typed syntagm
 
 <b> Functionalities:</b>
 
@@ -157,7 +156,7 @@ This research is based upon work supported by NSF grant IIS-1909845 and a Google
 
 Graduate Researchers:</b> 
 
- Pooja Vazirani (Human Computer Interaction - IUPUI) 
+Pooja Vazirani (Human Computer Interaction - IUPUI) 
 
 Sharvari Jalit (Human Computer Interaction - IUPUI) 
 
@@ -165,3 +164,6 @@ Anup A. Mulay (Computer and Information Science - IUPUI)
 
 Vidhi Patel (Computer and Information Science - IUPUI) 
 
+Aditya Sarvankar (Human Computer Interaction - IUPUI)
+
+Neha Kukarni (Human Computer Interaction - IUPUI)
